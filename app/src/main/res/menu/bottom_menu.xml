@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/navigation_home"
+        android:icon="@drawable/baseline_home_20"
+        android:title="Home" />
+    <item
+        android:id="@+id/navigation_task"
+        android:icon="@drawable/outline_format_list_numbered_24"
+        android:title="Task" />
+    <item
+        android:id="@+id/navigation_share"
+        android:icon="@drawable/baseline_share_24"
+        android:title="Share" />
+    <item
+        android:id="@+id/navigation_payout"
+        android:icon="@drawable/payments_outline"
+        android:title="Payout" />
+</menu>
